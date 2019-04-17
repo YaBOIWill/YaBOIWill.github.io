@@ -10,5 +10,5 @@ These are some programming projects I have worked on for my Computer Science 230
 [Programming Project 5](https://github.com/uncg-csc230-spring-2019-classroom-2/programming-assignment-5-YaBOIWill)
 
 ## Contact Information
-
+![My Email](/PC/Downloads/mail.png)
 

@@ -11,7 +11,9 @@ These are some programming projects I have worked on for my Computer Science 230
 
 ## Contact Information
 <img src="https://raw.githubusercontent.com/YaBOIWill/YaBOIWill.github.io/master/linkedin.png" alt="linkedin.png"/> 
-                              https://www.linkedin.com/in/william-h-3aa57aa9/
+ https://www.linkedin.com/in/william-h-3aa57aa9/
+
+<img src="https://raw.githubusercontent.com/YaBOIWill/YaBOIWill.github.io/master/UNCG.png" alt="UNCG.png"/> 
 UNCG Handshake - https://uncg.joinhandshake.com/users/13088311
 
 

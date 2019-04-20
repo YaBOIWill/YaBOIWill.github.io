@@ -10,9 +10,8 @@ These are some programming projects I have worked on for my Computer Science 230
 [Programming Project 5](https://github.com/uncg-csc230-spring-2019-classroom-2/programming-assignment-5-YaBOIWill)
 
 ## Contact Information
-Email address - willhgdn15@gmail.com
 <img src="https://raw.githubusercontent.com/YaBOIWill/YaBOIWill.github.io/master/linkedin.png" alt="linkedin.png"/> 
-
+                              https://www.linkedin.com/in/william-h-3aa57aa9/
 UNCG Handshake - https://uncg.joinhandshake.com/users/13088311
 
 
